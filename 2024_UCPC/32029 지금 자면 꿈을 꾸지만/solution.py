@@ -4,8 +4,6 @@ deadlines = list(map(int, input().split()))
 #N, A, B = 4, 30, 3
 #deadlines = [70, 75, 95, 105]
 
-
-
 def max_completed_tasks(N, A, B, deadlines):
     deadlines.sort()
 
