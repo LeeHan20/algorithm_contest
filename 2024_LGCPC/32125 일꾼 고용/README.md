@@ -44,21 +44,27 @@ $W_1, W_2, \cdots, W_N$이 차례대로 공백으로 구분되어 주어진다.
 
 ## 제한
 주어지는 모든 수는 정수이다.
- 
+
+ 
 $1 \leq T \leq 10\,000$ 
- 
+
+ 
 $2 \leq N \leq 500\,000$ 
+
 모든 테스트 케이스에서 
 $N$의 합은 
 $500\,000$ 이하이다.
- 
+
+ 
 $0 \leq K \leq 10^9$ 
- 
-$1 \leq C_i \leq 2$ (
-$1 \leq i \leq N$)
- 
-$0 \leq W_i \leq 10^9$ (
-$1 \leq i \leq N$)
+
+ 
+$1 \leq C_i \leq 2$ 
+($1 \leq i \leq N$)
+
+ 
+$0 \leq W_i \leq 10^9$ 
+($1 \leq i \leq N$)
 
 
 
