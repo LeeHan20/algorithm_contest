@@ -4,6 +4,6 @@
 
 Union of Clubs for Programming Contests
 
-전국 대학생 프로그래밍 대회 동아리 연합
+전국 대학생 프로그래밍 대회 동아리 연합 주관
 
 눈물의 2솔
