@@ -4,6 +4,6 @@
 
 Zero One Algorithm Contest
 
-교내 학회 주관 알고리즘 대회
+교내 학회 영과일 주관
 
 눈물의 1솔 
